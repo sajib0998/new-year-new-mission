@@ -13,7 +13,7 @@
     border-radius: 16px;
     margin: 50px 140px;
     align-items: center;
-    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%) ,url('/resources/Banner\ Image.png');
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%) ,url('resources/Banner\ Image.png');
     background-repeat: none;
     background-size: cover;
     background-position: center;
@@ -98,7 +98,7 @@ line-height: normal;
     justify-content: space-between;
     align-items: center;
     /* gap: 100px; */
-    background:linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%) ,url('/resources/Vectorrr.png');
+    background:linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%) ,url('resources/Vectorrr.png');
     background-size: cover;
     background-position: center;
     border-radius: 10px;
