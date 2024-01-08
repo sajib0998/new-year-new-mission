@@ -823,7 +823,8 @@ hr{
     margin-top: 50px;
     margin-left: 140px;
     margin-right: 140px;
-    background: rgba(255, 255, 255, 0.15);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 5px;
 }
 
 .last-div{
