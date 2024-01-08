@@ -316,6 +316,14 @@ line-height: normal;
 }
 .holiday p{
    padding:0px 70px;
+   color: rgba(7, 2, 17, 0.60);
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 32px; 
 }
 
 .holiday-first{
@@ -396,4 +404,69 @@ line-height: 32px;
 
 .details-pic1 img, .details-pic2 img{
     width: 340px;
+}
+
+.subscribe-section{
+    width: 80%;
+    height: 80vh;
+    margin: 100px 140px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    text-align: center;
+    padding-top: 150px;
+
+}
+
+.subscribe-section h1{
+    color: #070211;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+padding: 0px 100px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+.subscribe-section p{
+    color: rgba(7, 2, 17, 0.60);
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; 
+padding: 0px 100px;
+margin-bottom: 20px;
+}
+
+.subscribe-section input{
+    padding: 14px;
+    width: 350px;
+    border-radius: 50px 0px 0px 50px;
+    border: none;
+    
+}
+
+.subscribe-section button{
+    color: #FFF;
+width: 150px;
+text-align: center;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-transform: capitalize;
+border-radius: 0px 50px 50px 0px;
+background: #F00;
+padding:12px;
+border: none;
+margin-left: -6px;
+
 }
